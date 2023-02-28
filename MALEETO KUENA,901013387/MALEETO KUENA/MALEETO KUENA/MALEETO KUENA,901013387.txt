@@ -1,0 +1,41 @@
+Option Strict On
+Option Explicit On
+Module Module1
+
+    Sub Main()
+        'calling a method
+        Call enterAndStore(elements)
+
+    End Sub
+    Sub enterAndStore(ByVal elements() As Double)
+        'declare variable
+        Dim elements() As Double={100.6,24.7,23.8};
+                                 {56.3,158.4,111.0}
+        Dim sum As Double
+
+        'use of for loops
+        For i As Double = 0 To 2
+            For j As Double = 0 To 2
+
+                'promt user for values
+                Console.Write("elements are:" & elements(index))
+
+                'store values
+                i = CInt(Console.ReadLine())
+                j = CInt(Console.ReadLine())
+
+                sum = sum + elements(index)
+                console.writeline(sum))
+            Next
+
+        Next
+
+    End Sub
+
+
+
+
+
+
+End Module
+

@@ -1,0 +1,2 @@
+C:\Users\IT\Desktop\MALEETO KUENA,901013387\MALEETO KUENA\MALEETO KUENA\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\IT\Desktop\MALEETO KUENA,901013387\MALEETO KUENA\MALEETO KUENA\obj\x86\Debug\MALEETO KUENA.vbproj.GenerateResource.Cache
